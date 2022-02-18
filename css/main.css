@@ -14,7 +14,7 @@ ol {
 
 /* Main content */
 #main {
-    background: #555;
+    background: #00182D;
 }
 
 #main .container {
@@ -26,7 +26,7 @@ ol {
 
 #main .container::before {
     content: '';
-    background: white;
+    background: #003056;
     position: absolute;
     top: 0;
     bottom: 0;
@@ -46,7 +46,7 @@ ol {
 }
 
 #main h2 {
-    color: #CBB7A7;
+    color: #FFAA06;
     margin: -2rem 0 4rem 0;
     padding: 4rem 0 0 0;
     text-shadow: 1px 1px #333;
@@ -76,8 +76,8 @@ blockquote {
 /* Header */
 
 .brand, footer {
-    background: #333;
-    color: #EEE;
+    background: #003056;
+    color: #FFFFFF;
 }
 
 .brand {
@@ -87,7 +87,7 @@ blockquote {
 
 .brand a {
     text-decoration: none;
-    color: #EEE;
+    color: #FFAA06;
     transition: color .3s ease-in-out;
 }
 
@@ -128,7 +128,7 @@ ul.nav li{
 #search-input {
     display: inline-block;
     margin: 0;
-    background: #555;
+    background: #00182D;
     border: none;
     width: 6em;
     transition: width .2s ease-in-out;
@@ -140,7 +140,7 @@ ul.nav li{
 }
 
 .nav-control {
-    background: #444;
+    background: #FFAA06;
 }
 
 .nav-control .container div {
@@ -161,7 +161,7 @@ ul.nav li{
 /* nav button */
 .nav-button, .nav-button:focus {
     margin: 0;
-    color: #1EAEDB;
+    color: #00182D;
     padding: 0 1em;
     transition: color .2s ease;
     border: none;

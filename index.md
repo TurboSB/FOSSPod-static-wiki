@@ -8,7 +8,7 @@ for detail documentation.
 
 Any suggestions and comments, use the [Issue Tracker](https://github.com/TurboSB/FOSSPod-wiki/issues)
 
-# Episodes
+## Episodes
 S1E1: [OBS With Jim Bailey](S1E1-OBS.md)
 
 S1E2: [Getting Started With Network Attached Storage](S1E2-NAS.md)

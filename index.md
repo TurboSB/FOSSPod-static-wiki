@@ -10,4 +10,5 @@ Any suggestions and comments, use the [Issue Tracker](https://github.com/TurboSB
 
 # Episodes
 [OBS With Jim Bailey](S1E1-OBS.md)
+
 [Getting Started With Network Attached Storage](S1E2-NAS.md)

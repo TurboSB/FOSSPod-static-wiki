@@ -174,7 +174,7 @@ ul.nav li{
 /* nav result */
 
 .nav-result {
-    background: #eee;
+    background: #264A67;
     padding: 1rem 2em;
     max-height: 70vh;
     overflow-y: auto;
@@ -227,7 +227,7 @@ footer {
 }
 
 .toc-panel{
-    background: #eee;
+    background: #264A67;
     padding: 1em .5em .5em 3em;
     position: absolute;
     overflow-y: auto;

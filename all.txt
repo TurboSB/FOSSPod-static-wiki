@@ -1,3 +1,2 @@
-index.md
 S1E1-OBS.md
 S1E2-NAS.md

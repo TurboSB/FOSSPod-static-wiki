@@ -1,2 +1,3 @@
 index.md
-S1E1-OBS-With-Jim-Bailey.md
+S1E1-OBS.md
+S1E2-NAS.md

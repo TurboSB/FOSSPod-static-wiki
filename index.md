@@ -1,6 +1,6 @@
 # Welcome to the FOSS Pod Community Wiki!
 
-This is a community wiki for [Brad and Will Present a FOSS Pod](fosspod.content.town)
+This is a community wiki for [Brad and Will Present a FOSS Pod](https://fosspod.content.town)
 
 This Wiki is hosted on [Github:
 FOSSPod-wiki](https://github.com/TurboSB/FOSSPod-wiki) See [README](README.md)

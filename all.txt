@@ -1,3 +1,2 @@
-S1E1-OBS.md
-S1E2-NAS.md
-episodes/test.md
+episodes/S1E1-OBS.md
+episodes/S1E2-NAS.md

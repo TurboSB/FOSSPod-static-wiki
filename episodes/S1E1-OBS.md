@@ -19,3 +19,8 @@ video mixing and streaming software
 ## Jim Bailey
 
 [Twitter](https://twitter.com/WizardOfOBS)
+
+---
+
+|previous episode | [next episode](S1E2-NAS.md) |
+| ----------- | ----------- |

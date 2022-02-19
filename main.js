@@ -291,6 +291,10 @@ $('#episode_list').on('click', function(e){
     load_markdown("episode-list.md");
 });
 
+$('#home_button').on('click', function(e){
+    load_markdown("index.md");
+});
+
 $('#random_pages').on('click', function(e){
     if (all_files.length <= 0) {
         var content = 'Please add `' + file_all + '` to your wiki for this function to work';

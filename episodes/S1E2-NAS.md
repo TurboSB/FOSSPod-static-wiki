@@ -38,3 +38,8 @@ debian linux based hypervisor
 ### Proxmox Tutorials
 
 - recommended tutorials go here
+
+---
+
+| [previous episode](S1E1-OBS.md) | next episode |
+| ----------- | ----------- |

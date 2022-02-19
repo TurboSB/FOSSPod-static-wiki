@@ -273,7 +273,7 @@ $('html').click(function(e) {
 // Page Navigation -- random/all
 
 function page_all_files() {
-    var ret = '<h1>Episodes</h1>';
+    var ret = '<h1>Site Map</h1>';
     ret += '<ul>';
     ret += $.map(all_files, function(file) {
         return "<li><a href='" + file + "'>" + file + '</a></li>';
@@ -285,6 +285,10 @@ function page_all_files() {
 $('#all_pages').on('click', function(e) {
     current_file = file_all;
     handle_html_content(page_all_files());
+});
+
+$('#episode_list').on('click', function(e){
+    load_markdown("episode-list.md");
 });
 
 $('#random_pages').on('click', function(e){

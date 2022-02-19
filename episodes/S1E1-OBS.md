@@ -11,7 +11,10 @@ video mixing and streaming software
 
 ### Tutorial Links
 
-- recommended tutorials go here
+- [OBS Wiki Quickstart Guide](https://obsproject.com/wiki/OBS-Studio-Quickstart)
+- [OBS Forums](https://obsproject.com/forum/)
+- [OBS Discord](https://obsproject.com/discord)
+- [Video Tutorial Playlist](https://youtube.com/playlist?list=PLzo7l8HTJNK-IKzM_zDicTd2u20Ab2pAl)
 
 ## Jim Bailey
 

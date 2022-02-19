@@ -1,7 +1,7 @@
 # Welcome to the FOSS Pod Community Wiki!
 
 This is a community wiki for [Brad and Will Present a FOSS Pod](https://fosspod.content.town),
-a biweekly podcast about all the Free and Open Source Software (FOSS) thats available to the average comptuter user.
+a biweekly podcast about the Free and Open Source Software (FOSS) that’s changing the world, and the developers who are making it happen.
 
 ![FOSSPod Logo](images/fosspod-logo.jpg)
 

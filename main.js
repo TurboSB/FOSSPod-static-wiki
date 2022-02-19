@@ -273,7 +273,7 @@ $('html').click(function(e) {
 // Page Navigation -- random/all
 
 function page_all_files() {
-    var ret = '<h1>All files</h1>';
+    var ret = '<h1>Episodes</h1>';
     ret += '<ul>';
     ret += $.map(all_files, function(file) {
         return "<li><a href='" + file + "'>" + file + '</a></li>';

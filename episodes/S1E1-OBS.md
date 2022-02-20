@@ -2,8 +2,9 @@
 
 Listen to the episode [here](https://fosspod.content.town/episodes/obs-with-jim-bailey)
 
-## OBS - Open Broadcaster Software
-video mixing and streaming software
+## OBS
+ - **O**pen **B**roadcaster **S**oftware
+ - video mixing and streaming software
 
 [OBS Website](https://obsproject.com/)
 

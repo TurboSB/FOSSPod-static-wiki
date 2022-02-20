@@ -22,5 +22,4 @@ video mixing and streaming software
 
 ---
 
-|previous episode | [next episode](S1E2-NAS.md) |
-| ----------- | ----------- |
+previous episode / [next episode](S1E2-NAS.md)

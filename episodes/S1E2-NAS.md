@@ -41,5 +41,4 @@ debian linux based hypervisor
 
 ---
 
-| [previous episode](S1E1-OBS.md) | next episode |
-| ----------- | ----------- |
+[previous episode](S1E1-OBS.md) / next episode

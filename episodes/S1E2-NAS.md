@@ -17,6 +17,7 @@ network-attached storage (NAS) operating systems produced by iXsystems
 
 - [CORE First Steps](https://www.truenas.com/docs/core/gettingstarted/install/) from TrueNAS
 - [SCALE First Steps](https://www.truenas.com/docs/scale/gettingstarted/installingscale/) from TrueNAS
+- [TrueNAS Core 12 Install and Basic Setup](https://www.youtube.com/watch?v=WjLaK8yQAag) from Everything Smart Home on YouTube
 
 ## openmediavault
 debian linux based NAS operating system

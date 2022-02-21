@@ -27,7 +27,7 @@ debian linux based NAS operating system
 
 ### openmediavault Tutorials
 
-- [OMV New User Guide](https://openmediavault.readthedocs.io/en/5.x/new_user_guide/newuserguide.html) from openmediavault documentation
+- [OMV New User Guide](https://openmediavault.readthedocs.io/en/5.x/new_user_guide/newuserguide.html) from openmediavault
 - [Openmediavault 5 (OMV5) Stable Complete Install and Setup including Portainer](https://www.youtube.com/watch?v=M_oxzpvMPTE) from Techno Dad Life on Youtube
 - [Easy Script Install Openmediavault 5 Raspberry Pi 4](https://www.youtube.com/watch?v=sYDyvr9Uc6Y) from Techno Dad Life on Youtube
 

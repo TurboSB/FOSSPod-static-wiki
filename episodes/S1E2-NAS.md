@@ -15,7 +15,8 @@ network-attached storage (NAS) operating systems produced by iXsystems
 
 ### True NAS Tutorials
 
-- recommended tutorials go here
+- [CORE First Steps](https://www.truenas.com/docs/core/gettingstarted/install/) from TrueNAS
+- [SCALE First Steps](https://www.truenas.com/docs/scale/gettingstarted/installingscale/) from TrueNAS
 
 ## openmediavault
 debian linux based NAS operating system
@@ -26,7 +27,9 @@ debian linux based NAS operating system
 
 ### openmediavault Tutorials
 
-- recommended tutorials go here
+- [OMV New User Guide](https://openmediavault.readthedocs.io/en/5.x/new_user_guide/newuserguide.html) from openmediavault documentation
+- [Openmediavault 5 (OMV5) Stable Complete Install and Setup including Portainer](https://www.youtube.com/watch?v=M_oxzpvMPTE) from Techno Dad Life on Youtube
+- [Easy Script Install Openmediavault 5 Raspberry Pi 4](https://www.youtube.com/watch?v=sYDyvr9Uc6Y) from Techno Dad Life on Youtube
 
 ## Proxmox
 debian linux based hypervisor
@@ -37,7 +40,7 @@ debian linux based hypervisor
 
 ### Proxmox Tutorials
 
-- recommended tutorials go here
+- [Proxmox VE Full Course](https://youtu.be/LCjuiIswXGs) from LearnLinuxTV on YouTube
 
 ---
 

@@ -18,3 +18,6 @@ Any suggestions and comments, use the [Issue Tracker](https://github.com/TurboSB
 
 ## Show Sponsors
 [Google Open Source](opensource.google)
+
+## Helpful Lists of FOSS packages
+[Wikipedia](https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages)

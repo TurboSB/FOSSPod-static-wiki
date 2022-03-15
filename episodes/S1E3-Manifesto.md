@@ -1,4 +1,4 @@
-# S1E2 Getting Started With Network Attached Storage
+# S1E3 The FOSS Pod Manifesto
 
 Listen to the episode [here](https://fosspod.content.town/episodes/the-foss-pod-manifesto)
 

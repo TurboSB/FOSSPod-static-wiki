@@ -2,8 +2,8 @@
 
 Check out the site [here](https://fosspod.wiki)
 
-this wiki is built using [static-wiki](https://github.com/lotabout/static-wiki)
+this wiki is built using [Github Pages](https://pages.github.com)
 
 ## Editing Pages
 
-Pages are written using markdown and indexed in [all.txt](all.txt) and [episode-list.md](episode-list.md)
+Pages are written using markdown and indexed in [episode-list.md](episode-list.md)

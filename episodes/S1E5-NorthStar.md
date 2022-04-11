@@ -3,7 +3,6 @@
 Listen to the episode [here](https://fosspod.content.town/episodes/project-north-star-with-bryan-chris-brown)
 
 ## Project North Star
-Great sites to learn more about different licenses, what they entail, and which you may want to use for your project
 
 [Project North Star Website](https://docs.projectnorthstar.org/)
 

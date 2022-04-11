@@ -23,4 +23,4 @@ Listen to the episode [here](https://fosspod.content.town/episodes/obs-with-jim-
 
 ---
 
-previous episode / [next episode](episodes/S1E2-NAS.md)
+previous episode / [next episode](S1E2-NAS.md)

@@ -11,4 +11,4 @@ Listen to the episode [here](https://fosspod.content.town/episodes/the-foss-pod-
 
 ---
 
-[previous episode](episodes/S1E2-NAS.md) / [next episode](episodes/S1E4-OSS101.md)
+[previous episode](S1E2-NAS.md) / [next episode](S1E4-OSS101.md)

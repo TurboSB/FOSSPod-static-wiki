@@ -1,5 +1,0 @@
-index.md
-episodes/S1E1-OBS.md
-episodes/S1E2-NAS.md
-episodes/S1E3-Manifesto.md
-episodes/S1E4-OSS101.md

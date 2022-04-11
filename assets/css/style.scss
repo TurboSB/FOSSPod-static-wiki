@@ -1,0 +1,28 @@
+---
+---
+
+// Headers
+$header-heading-color: #FFAA06;
+$header-bg-color: #003056;
+$header-bg-color-Secondary: #0263AA;
+
+// Text
+$section-headings-color: #FFAA06;
+$body-text-color: #FFFFFF;
+$body-link-color: #00BEFF;
+$blockquote-text-color: #819198;
+
+// Code
+$code-bg-color: #f3f6fa;
+$code-text-color: #567482;
+
+// Borders
+$border-color: #dce6f0;
+$table-border-color: #e9ebec;
+$hr-border-color: #eff0f1;
+
+body {
+  background-color: #131E27;
+}
+
+@import "{{ site.theme }}";

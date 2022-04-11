@@ -45,4 +45,4 @@ debian linux based hypervisor
 
 ---
 
-[previous episode](episodes/S1E1-OBS.md) / [next episode](episodes/S1E3-Manifesto.md)
+[previous episode](S1E1-OBS.md) / [next episode](S1E3-Manifesto.md)

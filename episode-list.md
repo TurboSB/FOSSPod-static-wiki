@@ -6,3 +6,4 @@
 2. [Getting Started With Network Attached Storage](episodes/S1E2-NAS.md)
 3. [The FOSS Pod Manifesto](episodes/S1E3-Manifesto.md)
 4. [Open Source 101](episodes/S1E4-OSS101.md)
+5. [Project North Star With Bryan Chris Brown](episodes/S1E5-NorthStar.md)

@@ -6,3 +6,4 @@ description: Community Wiki for Brad and Will Present a FOSS Pod
 collections:
   episodes:
     output: true
+    permalink: /episodes/:path/

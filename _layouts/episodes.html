@@ -41,8 +41,8 @@
             {% if forloop.first == true %}
               previous episode
             {% else %}
-              {% assign nextindex = forloop.index0 - 1 %}
-              <a href = "{{site.episodes[nextindex].url}}">previous episode</a>
+              {% assign prev_index = forloop.index0 | minus: 1 %}
+              <a href = "{{site.episodes[prev_index].url}}">previous episode</a>
             {% endif %}
              | 
             {% if forloop.last == true %}

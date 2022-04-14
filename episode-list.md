@@ -13,7 +13,7 @@
 {% for season_num in seasons %}
   {% assign season_eps = "" | split: ',' %}
 
-  <h2 id="Season {{ tag }}">Season {{ season_num }}</h2>
+  <h2 id="Season {{ season_num }}">Season {{ season_num }}</h2>
   <ol>
 
   {% for episode in site.episodes %}
@@ -23,7 +23,7 @@
   {% endfor %}
 
   {% for episode in season_eps %}
-    <li><a href="{{ tagged.url }}">{{ episode.title }}</a></li>
+    <li><a href="{{ episode.url }}">{{ episode.title }}</a></li>
   {% endfor %}
 
   </ol>

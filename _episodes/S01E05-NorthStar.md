@@ -1,3 +1,7 @@
+---
+title: "Project North Star With Bryan Chris Brown"
+season: 1
+---
 # S1E5 Project North Star With Bryan Chris Brown
 
 Listen to the episode [here](https://fosspod.content.town/episodes/project-north-star-with-bryan-chris-brown)
@@ -12,4 +16,4 @@ Listen to the episode [here](https://fosspod.content.town/episodes/project-north
 
 ---
 
-[previous episode](S1E4-OSS101.md) / [next episode]()
+[previous episode](S01E04-OSS101.md) / [next episode]()

@@ -1,3 +1,7 @@
+---
+title: "Getting Started With Network Attached Storage"
+season: 1
+---
 # S1E2 Getting Started With Network Attached Storage
 
 Listen to the episode [here](https://fosspod.content.town/episodes/getting-started-with-network-attached-storage)
@@ -45,4 +49,4 @@ debian linux based hypervisor
 
 ---
 
-[previous episode](S1E1-OBS.md) / [next episode](S1E3-Manifesto.md)
+[previous episode](S01E01-OBS.md) / [next episode](S01E03-Manifesto.md)

@@ -2,3 +2,18 @@ theme: jekyll-theme-cayman
 
 title: FOSS Pod Wiki
 description: Community Wiki for Brad and Will Present a FOSS Pod
+
+collections:
+    episodes:
+      output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "episodes"
+    values:
+      layout: "episodes"
+  - scope:
+      path: ""
+    values:
+      layout: "default"

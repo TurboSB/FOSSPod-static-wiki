@@ -1,9 +1,30 @@
+---
+---
 # Episode List
 
-## Season 1
+{% assign seasons = "" | split: ',' %}
 
-1. [OBS With Jim Bailey](episodes/S1E1-OBS.md)
-2. [Getting Started With Network Attached Storage](episodes/S1E2-NAS.md)
-3. [The FOSS Pod Manifesto](episodes/S1E3-Manifesto.md)
-4. [Open Source 101](episodes/S1E4-OSS101.md)
-5. [Project North Star With Bryan Chris Brown](episodes/S1E5-NorthStar.md)
+{%- for episode in site.episodes -%}
+  {% assign seasons = seasons | push: episode.season %}
+{%- endfor -%}
+
+{% assign seasons = seasons | uniq | sort%}
+
+{% for season_num in seasons %}
+  {% assign season_eps = "" | split: ',' %}
+
+  <h2 id="Season {{ tag }}">Season {{ season_num }}</h2>
+  <ol>
+
+  {% for episode in site.episodes %}
+    {% if episode.season == season_num %}
+      {% assign season_eps = season_eps | push: episode %}
+    {% endif %}
+  {% endfor %}
+
+  {% for episode in season_eps %}
+    <li><a href="{{ tagged.url }}">{{ episode.title }}</a></li>
+  {% endfor %}
+
+  </ol>
+{% endfor %}

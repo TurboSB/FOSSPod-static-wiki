@@ -1,3 +1,7 @@
+---
+title: "The FOSS Pod Manifesto"
+season: 1
+---
 # S1E3 The FOSS Pod Manifesto
 
 Listen to the episode [here](https://fosspod.content.town/episodes/the-foss-pod-manifesto)
@@ -11,4 +15,4 @@ Listen to the episode [here](https://fosspod.content.town/episodes/the-foss-pod-
 
 ---
 
-[previous episode](S1E2-NAS.md) / [next episode](S1E4-OSS101.md)
+[previous episode](S01E02-NAS.md) / [next episode](S01E04-OSS101.md)

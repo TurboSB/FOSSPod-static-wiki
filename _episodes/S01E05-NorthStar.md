@@ -10,6 +10,12 @@ Listen to the episode [here](https://fosspod.content.town/episodes/project-north
 
 [Project North Star Website](https://docs.projectnorthstar.org/)
 
+[Project North Star's Glossary](https://docs.projectnorthstar.org/glossary)
+
+[GitHub](https://github.com/CombineReality/Deck-X/) for current "Deck X" headset design
+
+{% include youtubePlayer.html id="E9mwLVwnLbo" %}
+
 ## Bryan Chris Brown
 
 [Twitter](https://twitter.com/BryanChrisBrown)

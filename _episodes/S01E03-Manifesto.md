@@ -12,7 +12,3 @@ Listen to the episode [here](https://fosspod.content.town/episodes/the-foss-pod-
 
 ## The Linux Diaries
 [Will's diary of using 2005-era Linux published in Maximum PC](https://books.google.com/books?id=rwIAAAAAMBAJ&lpg=PP1&pg=PA52#v=onepage&q&f=false)
-
----
-
-[previous episode](S01E02-NAS.md) / [next episode](S01E04-OSS101.md)

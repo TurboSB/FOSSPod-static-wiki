@@ -24,7 +24,3 @@ Listen to the episode [here](https://fosspod.content.town/episodes/obs-with-jim-
 ## Jim Bailey
 
 [Twitter](https://twitter.com/WizardOfOBS)
-
----
-
-previous episode / [next episode](S01E02-NAS.md)

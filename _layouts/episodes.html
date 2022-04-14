@@ -36,6 +36,24 @@
       {{ content }}
 
       <footer class="site-footer">
+        <p>
+          {%- for episode in site.episodes -%}
+            {% if episode == page %}
+              {% if forloop.first == true %}
+                previous episode
+              {% else %}
+                <a href = "{{site.episodes[forloop.index0 - 1].url}}">previous episode</a>
+              {% endif %}
+               | 
+              {% if forloop.last == true %}
+                next episode
+              {% else %}
+                <a href = "{{site.episodes[forloop.index].url}}">next episode</a>
+              {% endif %}
+            {% endif %}
+          {%- endfor-%}
+        </p>
+        <hr> == $0
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}

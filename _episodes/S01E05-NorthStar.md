@@ -13,7 +13,3 @@ Listen to the episode [here](https://fosspod.content.town/episodes/project-north
 ## Bryan Chris Brown
 
 [Twitter](https://twitter.com/BryanChrisBrown)
-
----
-
-[previous episode](S01E04-OSS101.md) / [next episode]()

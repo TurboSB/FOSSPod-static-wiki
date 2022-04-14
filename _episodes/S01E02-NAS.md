@@ -46,7 +46,3 @@ debian linux based hypervisor
 ### Proxmox Tutorials
 
 - [Proxmox VE Full Course](https://youtu.be/LCjuiIswXGs) from LearnLinuxTV
-
----
-
-[previous episode](S01E01-OBS.md) / [next episode](S01E03-Manifesto.md)

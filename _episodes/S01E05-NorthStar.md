@@ -8,6 +8,8 @@ Listen to the episode [here](https://fosspod.content.town/episodes/project-north
 
 ## Project North Star
 
+Open-source augmented reality (AR) headset
+
 [Website](https://docs.projectnorthstar.org/)
 
 [Glossary](https://docs.projectnorthstar.org/glossary)
@@ -15,6 +17,12 @@ Listen to the episode [here](https://fosspod.content.town/episodes/project-north
 [GitHub](https://github.com/CombineReality/Deck-X/) for current "Deck X" headset design
 
 {% include youtubePlayer.html id="E9mwLVwnLbo" %}
+
+### Ultraleap (formerly Leap Motion)
+
+hand tracking device maker and original developer of the project
+
+[Website](https://www.ultraleap.com/)
 
 ## Bryan Chris Brown
 

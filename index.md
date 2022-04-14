@@ -1,4 +1,5 @@
 ---
+title: FOSS Pod Wiki
 ---
 # Welcome to the FOSS Pod Community Wiki!
 

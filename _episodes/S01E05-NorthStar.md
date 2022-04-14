@@ -8,9 +8,9 @@ Listen to the episode [here](https://fosspod.content.town/episodes/project-north
 
 ## Project North Star
 
-[Project North Star Website](https://docs.projectnorthstar.org/)
+[Website](https://docs.projectnorthstar.org/)
 
-[Project North Star's Glossary](https://docs.projectnorthstar.org/glossary)
+[Glossary](https://docs.projectnorthstar.org/glossary)
 
 [GitHub](https://github.com/CombineReality/Deck-X/) for current "Deck X" headset design
 
@@ -19,3 +19,11 @@ Listen to the episode [here](https://fosspod.content.town/episodes/project-north
 ## Bryan Chris Brown
 
 [Twitter](https://twitter.com/BryanChrisBrown)
+
+## DepthAI
+
+Open-source tracking cameras and software
+
+[Website](https://luxonis.com/)
+
+[GitHub](https://github.com/luxonis/)

@@ -34,6 +34,8 @@ Media Creation software capable of:
 ## Audacity
 [Website](https://www.audacityteam.org/)
 
+Audio Recording and editing program
+
 ### Tutorials
 [Official Site](https://manual.audacityteam.org/#tutorials)
 
@@ -47,6 +49,8 @@ Media Creation software capable of:
 ## GNU Image Manipulation Program
 [Website](https://www.gimp.org/)
 
+Image editing program
+
 ### Tutorials
 [Official Website](https://www.gimp.org/tutorials/)
 
@@ -57,6 +61,8 @@ Media Creation software capable of:
 
 ## Firefox
 [Website](https://www.mozilla.org/en-US/firefox/new/)
+
+Web browser
 
 ### Firefox Containers
 [Facebook container](https://addons.mozilla.org/firefox/addon/facebook-container/)
@@ -71,6 +77,8 @@ Media Creation software capable of:
 ## VLC
 [Website](https://www.videolan.org/vlc/)
 
+Multimedia player
+
 ### Tutorial
 How to play BluRays with menus in VLC from [Reddit](https://www.reddit.com/r/DataHoarder/comments/hl1s2i/how_to_play_your_bluray_with_menus_in_vlc/)
 
@@ -79,6 +87,8 @@ How to play BluRays with menus in VLC from [Reddit](https://www.reddit.com/r/Dat
 
 ## EarTrumpet
 [Website](https://eartrumpet.app/)
+
+Windows volume control app
 
 ### Tutorial
 {% include youtubePlayer.html id="J0RWThQDRag" %}
@@ -89,11 +99,15 @@ How to play BluRays with menus in VLC from [Reddit](https://www.reddit.com/r/Dat
 ## Notepad++
 [Website](https://notepad-plus-plus.org/)
 
+Text editor with sessions, themes, and plugins
+
 ### Source Code
 [GitHub](https://github.com/notepad-plus-plus/notepad-plus-plus)
 
 ## Windows Terminal
 [Website](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701)
+
+Terminal application for windows
 
 ### Source Code
 [GitHub](https://github.com/Microsoft/Terminal)
@@ -101,11 +115,15 @@ How to play BluRays with menus in VLC from [Reddit](https://www.reddit.com/r/Dat
 ## Signal
 [Website](https://www.signal.org/)
 
+End-to-end encrypted messaging protocol and application
+
 ### Source Code
 [GitHub](https://github.com/signalapp)
 
 ## WinMerge
 [Website](https://winmerge.org/)
+
+App to compare two folders based on user selected rules
 
 ### Source Code
 [GitHub](https://github.com/winmerge/winmerge)

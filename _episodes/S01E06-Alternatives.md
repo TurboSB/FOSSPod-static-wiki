@@ -80,7 +80,7 @@ Web browser
 Multimedia player
 
 ### Tutorial
-How to play BluRays with menus in VLC from [Reddit](https://www.reddit.com/r/DataHoarder/comments/hl1s2i/how_to_play_your_bluray_with_menus_in_vlc/)
+How to play BluRays with menus in VLC from [VLC GitLab Issue Tracker](https://code.videolan.org/videolan/vlc/-/issues/25979)
 
 ### Source Code
 [GitLab](https://code.videolan.org/videolan/vlc)

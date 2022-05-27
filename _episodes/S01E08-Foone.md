@@ -12,6 +12,8 @@ Self-described "Hardware / software necromancer"
 
 Foone's Twitter [profile](https://twitter.com/Foone)
 
+Foone on [YouTube](https://www.youtube.com/c/FooneTuring)
+
 ## 3D Movie Maker
 
 {% include youtubePlayer.html id="LNBCoaZn8FU" %}

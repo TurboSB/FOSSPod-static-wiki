@@ -10,6 +10,8 @@ Listen to the TechPod episode on Home Assistant [here](https://techpod.content.t
 
 ## Home Assistant
 
+Home automation software that integrates many different platforms and devices into one hub.
+
 Home Assistant [website](https://www.home-assistant.io/)
 
 Source code on [GitHub](https://github.com/home-assistant)
@@ -20,9 +22,11 @@ Official [getting-started page](https://www.home-assistant.io/getting-started/)
 
 {% include youtubePlayer.html id="LI3lhgOiZ-8" %}
 
-### Popular Addons
+## Popular Addons
 
-Node Red
+### Node Red
+
+node based automation addon
 
 [Website](https://nodered.org/)
 

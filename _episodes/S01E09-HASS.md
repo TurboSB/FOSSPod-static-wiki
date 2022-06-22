@@ -6,6 +6,8 @@ season: 1
 
 Listen to the episode [here](https://fosspod.content.town/episodes/home-assistant-with-paulus-schoutsen)
 
+Listen to the TechPod episode on Home Assistant [here](https://techpod.content.town/episodes/59-how-you-know-youre-living-in-the-future-s8PvcUbe)
+
 ## Home Assistant
 
 Home Assistant [website](https://www.home-assistant.io/)

@@ -1,8 +1,8 @@
 ---
-title: "curl With Daniel Stenberg"
+title: "cURL With Daniel Stenberg"
 season: 1
 ---
-# curl With Daniel Stenberg
+# cURL With Daniel Stenberg
 
 Listen to the episode [here](https://fosspod.content.town/episodes/curl-with-daniel-stenberg)
 

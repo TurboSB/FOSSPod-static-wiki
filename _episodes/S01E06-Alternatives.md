@@ -6,11 +6,12 @@ season: 1
 
 Listen to the episode [here](https://fosspod.content.town/episodes/open-source-alternatives)
 
-![Show Art](https://image.simplecastcdn.com/images/369e8282-bab3-4f89-8844-5a60aee0d43c/52900c09-921a-4f35-a091-4fa1f77b1438/3000x3000/sculpt01.jpg){:width="10%"}
+![Show Art](https://image.simplecastcdn.com/images/369e8282-bab3-4f89-8844-5a60aee0d43c/52900c09-921a-4f35-a091-4fa1f77b1438/3000x3000/sculpt01.jpg){:width="30%"}
 
 ## Episode Notes
-
-```Creative software is getting more expensive all the time, but by the same token FOSS alternatives are getting more and more robust. On this ep we check in with what's new in some of the biggest open-source creative applications like Blender, Audacity, and the GNU Image Manipulation Program, plus we talk through some tips and tricks for more of our favorite open-source apps like VLC, EarTrumpet, Windows Terminal, WinMerge, and more.```
+```
+Creative software is getting more expensive all the time, but by the same token FOSS alternatives are getting more and more robust. On this ep we check in with what's new in some of the biggest open-source creative applications like Blender, Audacity, and the GNU Image Manipulation Program, plus we talk through some tips and tricks for more of our favorite open-source apps like VLC, EarTrumpet, Windows Terminal, WinMerge, and more.
+```
 
 ## Blender
 [Website](https://blender.org)

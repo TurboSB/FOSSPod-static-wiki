@@ -6,12 +6,12 @@ season: 1
 
 Listen to the episode [here](https://fosspod.content.town/episodes/getting-started-with-network-attached-storage)
 
-![Show Art](https://image.simplecastcdn.com/images/369e8282-bab3-4f89-8844-5a60aee0d43c/9b2a87f3-0a35-4236-88e8-ba4885ec8734/3000x3000/6mamzxa.jpg){:width="30%"}
+[![Show Art](https://image.simplecastcdn.com/images/369e8282-bab3-4f89-8844-5a60aee0d43c/9b2a87f3-0a35-4236-88e8-ba4885ec8734/3000x3000/6mamzxa.jpg){:width="30%"}](https://fosspod.content.town/episodes/getting-started-with-network-attached-storage)
 
 ## Episode Notes
-```
-Building a NAS served as the gateway into free and open source software for both of us, so in this ep we're looping back around and checking in on the current state of FOSS-y network attached storage options like OpenMediaVault, TrueNAS, and Proxmox, plus dishing out some practical tips about why you'd want a NAS in the first place, some advice on hardware requirements, best practices for backups, and more.
-```
+
+> Building a NAS served as the gateway into free and open source software for both of us, so in this ep we're looping back around and checking in on the current state of FOSS-y network attached storage options like OpenMediaVault, TrueNAS, and Proxmox, plus dishing out some practical tips about why you'd want a NAS in the first place, some advice on hardware requirements, best practices for backups, and more.
+
 
 ## TrueNAS
 network-attached storage (NAS) operating systems produced by iXsystems

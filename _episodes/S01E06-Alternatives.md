@@ -36,6 +36,7 @@ Media Creation software capable of:
 
 ### Source Code
 [Repository](https://developer.blender.org/diffusion/B/)
+
 [Developer Info](https://www.blender.org/get-involved/developers/)
 
 ## Audacity

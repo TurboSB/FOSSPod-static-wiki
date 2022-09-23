@@ -6,8 +6,6 @@ season: 1
 
 Listen to the episode [here](https://fosspod.content.town/episodes/octoprint-with-gina-hauge)
 
-[![Show Art](https://image.simplecastcdn.com/images/369e8282-bab3-4f89-8844-5a60aee0d43c/fc07cf8a-ad5f-45bf-acb1-43247e6dbd52/3000x3000/octoprint-600x400.jpg){:width="30%"}](https://fosspod.content.town/episodes/octoprint-with-gina-hauge)
-
 {% include simplecastPlayer.html id="78b4773b-9640-48b2-8df7-b82bb74ee5d5" %}
 
 ## Episode Notes

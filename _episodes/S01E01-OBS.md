@@ -6,7 +6,7 @@ season: 1
 
 Listen to the episode [here](https://fosspod.content.town/episodes/obs-with-jim-bailey)
 
-[![Show Art](https://image.simplecastcdn.com/images/369e8282-bab3-4f89-8844-5a60aee0d43c/b1dc96e6-a895-4e63-9ddb-423b189615ce/3000x3000/maxresdefault.jpg){:width="30%"}](https://fosspod.content.town/episodes/obs-with-jim-bailey)
+{% include simplecastPlayer.html id="bc740a7f-5522-44aa-9773-97565543f492" %}
 
 ## Episode Notes
 
@@ -31,8 +31,5 @@ Listen to the episode [here](https://fosspod.content.town/episodes/obs-with-jim-
 
 [Twitter](https://twitter.com/WizardOfOBS)
 
-## Player
-{% include simplecastPlayer.html id="bc740a7f-5522-44aa-9773-97565543f492" %}
-
-
-{% include recastPlayer.html id="e8c55453-b248-5f77-beb8-faac0c5aba31" title="OBS With Jim Bailey" %}
+## Quotes
+> ...to be honest, most of the people who have joined the project and have become some of the best contributors are people who are kind of in my same situation. We didn't really know what we were getting into. We didn't really have the experience when we started. And we just kind of learned as we went. Jim Bailey @ 23:30

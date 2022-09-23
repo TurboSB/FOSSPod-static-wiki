@@ -6,7 +6,7 @@ season: 1
 
 Listen to the episode [here](https://fosspod.content.town/episodes/vlc-with-jean-baptiste-kempf)
 
-[![Show Art](https://image.simplecastcdn.com/images/369e8282-bab3-4f89-8844-5a60aee0d43c/26cd8c63-0e85-4ab4-8a6b-78e4c93890a0/3000x3000/untitled.jpg){:width="30%"}](https://fosspod.content.town/episodes/vlc-with-jean-baptiste-kempf)
+{% include simplecastPlayer.html id="ee89cc09-56f2-46f0-b23b-0d87ff33d9a0" %}
 
 ## Episode Notes
 

@@ -6,7 +6,7 @@ season: 1
 
 Listen to the episode [here](https://fosspod.content.town/episodes/open-source-alternatives)
 
-[![Show Art](https://image.simplecastcdn.com/images/369e8282-bab3-4f89-8844-5a60aee0d43c/52900c09-921a-4f35-a091-4fa1f77b1438/3000x3000/sculpt01.jpg){:width="30%"}](https://fosspod.content.town/episodes/open-source-alternatives)
+{% include simplecastPlayer.html id="9043af60-a9f8-4bf0-afa7-6f48caa3448e" %}
 
 ## Episode Notes
 

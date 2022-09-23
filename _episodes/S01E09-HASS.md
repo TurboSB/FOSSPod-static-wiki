@@ -6,9 +6,9 @@ season: 1
 
 Listen to the episode [here](https://fosspod.content.town/episodes/home-assistant-with-paulus-schoutsen)
 
-Listen to the TechPod episode on Home Assistant [here](https://techpod.content.town/episodes/59-how-you-know-youre-living-in-the-future-s8PvcUbe)
+{% include simplecastPlayer.html id="86edd34f-1859-481f-b295-06b41d60dfa7" %}
 
-[![Show Art](https://image.simplecastcdn.com/images/369e8282-bab3-4f89-8844-5a60aee0d43c/11c59557-aa9e-462d-acb3-de0df1595f37/3000x3000/2048px-home-assistant-logo-svg2.jpg){:width="30%"}](https://fosspod.content.town/episodes/home-assistant-with-paulus-schoutsen)
+Listen to the TechPod episode on Home Assistant [here](https://techpod.content.town/episodes/59-how-you-know-youre-living-in-the-future-s8PvcUbe)
 
 ## Episode Notes
 

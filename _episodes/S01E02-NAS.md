@@ -6,7 +6,7 @@ season: 1
 
 Listen to the episode [here](https://fosspod.content.town/episodes/getting-started-with-network-attached-storage)
 
-[![Show Art](https://image.simplecastcdn.com/images/369e8282-bab3-4f89-8844-5a60aee0d43c/9b2a87f3-0a35-4236-88e8-ba4885ec8734/3000x3000/6mamzxa.jpg){:width="30%"}](https://fosspod.content.town/episodes/getting-started-with-network-attached-storage)
+{% include simplecastPlayer.html id="27d2171d-8daf-4669-8a1c-c245661fbfaf" %}
 
 ## Episode Notes
 

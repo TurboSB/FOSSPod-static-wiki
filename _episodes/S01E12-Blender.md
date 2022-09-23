@@ -6,7 +6,7 @@ season: 1
 
 Listen to the episode [here](https://fosspod.content.town/episodes/blender-with-dalai-felinto-and-pablo-vazquez)
 
-[![Show Art](https://image.simplecastcdn.com/images/369e8282-bab3-4f89-8844-5a60aee0d43c/fd227cc5-7481-430f-a824-35fd6373f111/3000x3000/asdf.jpg){:width="30%"}](https://fosspod.content.town/episodes/blender-with-dalai-felinto-and-pablo-vazquez)
+{% include simplecastPlayer.html id="bc740a7f-5522-44aa-9773-97565543f492" %}
 
 ## Episode Notes
 

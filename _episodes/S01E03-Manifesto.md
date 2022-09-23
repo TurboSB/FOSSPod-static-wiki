@@ -6,7 +6,7 @@ season: 1
 
 Listen to the episode [here](https://fosspod.content.town/episodes/the-foss-pod-manifesto)
 
-[![Show Art](https://image.simplecastcdn.com/images/369e8282-bab3-4f89-8844-5a60aee0d43c/a22d2eb3-3eb7-47c9-a993-51ac25d7c2cc/3000x3000/screenshot-2022-03-02-192433.jpg){:width="30%"}](https://fosspod.content.town/episodes/the-foss-pod-manifesto)
+{% include simplecastPlayer.html id="bb842109-9007-41c6-a626-bdb2aeeab395" %}
 
 ## Episode Notes
 

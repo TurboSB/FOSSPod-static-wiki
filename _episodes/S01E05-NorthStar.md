@@ -6,7 +6,7 @@ season: 1
 
 Listen to the episode [here](https://fosspod.content.town/episodes/project-north-star-with-bryan-chris-brown)
 
-[![Show Art](https://image.simplecastcdn.com/images/369e8282-bab3-4f89-8844-5a60aee0d43c/f61c1b13-52fe-4884-9bd7-1d68be358c82/3000x3000/vlcsnap-2022-04-08-12h48m02s694.jpg){:width="30%"}](https://fosspod.content.town/episodes/project-north-star-with-bryan-chris-brown)
+{% include simplecastPlayer.html id="879f13ae-c725-4bce-92b9-0a3ee4d573f0" %}
 
 ## Episode Notes
 

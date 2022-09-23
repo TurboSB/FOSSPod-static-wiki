@@ -6,7 +6,7 @@ season: 1
 
 Listen to the episode [here](https://fosspod.content.town/episodes/3d-movie-maker-with-foone-turing)
 
-[![Show Art](https://image.simplecastcdn.com/images/369e8282-bab3-4f89-8844-5a60aee0d43c/af65bd66-a51a-4976-ab62-6869b82bbd58/3000x3000/vlcsnap-2022-05-26-10h23m13s218.jpg){:width="30%"}](https://fosspod.content.town/episodes/3d-movie-maker-with-foone-turing)
+{% include simplecastPlayer.html id="e46a10c1-d86c-4db2-8b8a-5f36e8bd9146" %}
 
 ## Episode Notes
 

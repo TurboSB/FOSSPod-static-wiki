@@ -6,7 +6,7 @@ season: 1
 
 Listen to the episode [here](https://fosspod.content.town/episodes/curl-with-daniel-stenberg)
 
-[![Show Art](https://image.simplecastcdn.com/images/369e8282-bab3-4f89-8844-5a60aee0d43c/43a0cac8-8e0f-44a2-a726-c08eb2f4c269/3000x3000/curl-symbol.jpg){:width="30%"}](https://fosspod.content.town/episodes/curl-with-daniel-stenberg)
+{% include simplecastPlayer.html id="c1fd2cf8-5b87-4c54-b284-f02f4c955276" %}
 
 ## Episode Notes
 

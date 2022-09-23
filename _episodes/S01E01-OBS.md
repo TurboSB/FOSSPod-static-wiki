@@ -30,3 +30,9 @@ Listen to the episode [here](https://fosspod.content.town/episodes/obs-with-jim-
 ## Jim Bailey
 
 [Twitter](https://twitter.com/WizardOfOBS)
+
+## Player
+{% include simplecastPlayer.html id="bc740a7f-5522-44aa-9773-97565543f492" %}
+
+
+{% include recastPlayer.html id="e8c55453-b248-5f77-beb8-faac0c5aba31" title="OBS With Jim Bailey" %}

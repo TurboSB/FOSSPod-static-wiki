@@ -32,4 +32,5 @@ Listen to the episode [here](https://fosspod.content.town/episodes/obs-with-jim-
 [Twitter](https://twitter.com/WizardOfOBS)
 
 ## Quotes
-> ...to be honest, most of the people who have joined the project and have become some of the best contributors are people who are kind of in my same situation. We didn't really know what we were getting into. We didn't really have the experience when we started. And we just kind of learned as we went. Jim Bailey @ 23:30
+Jim Bailey @ 23:30
+> ...to be honest, most of the people who have joined the project and have become some of the best contributors are people who are kind of in my same situation. We didn't really know what we were getting into. We didn't really have the experience when we started. And we just kind of learned as we went.

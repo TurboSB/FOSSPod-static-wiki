@@ -1,6 +1,6 @@
 # The FOSS Pod Wiki
 
-Check out the site [here](https://fosspod.wiki)
+Check out the site [here](http://fosspod-wiki.techpod.games/)
 
 this wiki is built using [Github Pages](https://pages.github.com)
 
